@@ -12,9 +12,10 @@ DOMAIN BUCKET: Space technology
 
 DATASET LINK: 
 
+INSAT3DR Dataset: https://vedas.sac.gov.in/en/sih2022.html
+IMD Rainfall Data: https://www.imdpune.gov.in/cmpg/Griddata/Rainfall_25_NetCDF.html
+
 OUR APPROACH:
-
-
 
 
 
